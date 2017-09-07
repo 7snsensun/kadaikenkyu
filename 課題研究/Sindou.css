@@ -1,0 +1,18 @@
+ul.nav{
+  width: 300px;
+  padding: 17px;
+  background-color: gray;
+  font-size: 0px;
+}
+
+ul.nav li{
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
+  text-align: center;
+}
+
+ul.nav li a{
+  display: block;
+  color: white;
+}
